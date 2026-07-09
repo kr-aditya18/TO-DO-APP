@@ -26,4 +26,4 @@ Then open `http://localhost:8000/`, register a user (or log in as the superuser)
 
 ## Live Demo
 
-Deployed on Render: _add your live Render URL here once deployed_
+Deployed on Render: https://to-do-app-wedb.onrender.com/
